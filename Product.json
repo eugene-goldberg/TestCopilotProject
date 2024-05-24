@@ -1,0 +1,29 @@
+[
+    {
+        "ProductID": 1,
+        "Name": "Example Product",
+        "ProductNumber": "EX-001",
+        "MakeFlag": true,
+        "FinishedGoodsFlag": true,
+        "Color": "Red",
+        "SafetyStockLevel": 100,
+        "ReorderPoint": 50,
+        "StandardCost": 15.00,
+        "ListPrice": 30.00,
+        "Size": "M",
+        "SizeUnitMeasureCode": "CM",
+        "WeightUnitMeasureCode": "KG",
+        "Weight": 1.00,
+        "DaysToManufacture": 2,
+        "ProductLine": "PL",
+        "Class": "C",
+        "Style": "S",
+        "ProductSubcategoryID": 1,
+        "ProductModelID": 1,
+        "SellStartDate": "2022-01-01T00:00:00",
+        "SellEndDate": null,
+        "DiscontinuedDate": null,
+        "rowguid": "3F2504E0-4F89-11D3-9A0C-0305E82C3301",
+        "ModifiedDate": "2022-01-01T00:00:00"
+    }
+]
