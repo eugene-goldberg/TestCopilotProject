@@ -1,4 +1,4 @@
-[
+
     {
         "ProductID": 1,
         "Name": "Example Product",
@@ -26,4 +26,3 @@
         "rowguid": "3F2504E0-4F89-11D3-9A0C-0305E82C3301",
         "ModifiedDate": "2022-01-01T00:00:00"
     }
-]
